@@ -1,5 +1,5 @@
 import unittest
-from app.dad_jokes import get_dad_joke
+from jokes.dad_jokes import get_dad_joke
 
 
 class TestJokes(unittest.TestCase):
